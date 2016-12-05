@@ -1,0 +1,36 @@
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\CMSC124 LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interpreter.resources
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\CMSC124 LOLCODE Interpreter.csproj.GenerateResource.Cache
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.interpreter.resources
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Arianne\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csproj.GenerateResource.Cache
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.interpreter.resources
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Paula Tan\Desktop\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csproj.GenerateResource.Cache
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.interpreter.resources
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Paula Tan\Videos\CMSC124-LOLCODE-Interpreter\CMSC124 LOLCODE Interpreter\obj\Debug\CMSC124 LOLCODE Interpreter.csproj.GenerateResource.Cache
